@@ -17,5 +17,4 @@ To deploy this module, do the following:
 7. Run `terraform init`.
 8. Run `terraform apply`.
 9. To deploy a VPC, change directory by running `cd ../deploy_new_vpc`.
-10. Run `terraform init`.
-11. Run `terraform apply`.
+10. Run `terraform apply`.
